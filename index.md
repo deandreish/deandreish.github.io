@@ -13,8 +13,21 @@
 ![Capture](https://user-images.githubusercontent.com/93952296/140839071-b7a1251a-1bf8-4546-b756-d9e3ae46bfe8.JPG)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Recursion project](http://example.com/)
+![recursion](https://user-images.githubusercontent.com/93952296/140840820-401c8750-178a-4682-9991-a8b9f59d0ea2.JPG)
+
+
+
+[Cipher project](http://example.com/)
+![cipher](https://user-images.githubusercontent.com/93952296/140842674-d203a18b-ac97-4f1e-bc93-c23fe1df7620.JPG)
+
+
+[Trivia Game](http://example.com/)
+![Trivia game](https://user-images.githubusercontent.com/93952296/140842820-069faec5-70a8-4183-9ad3-15ab2ef15b67.JPG)
+
+
+
+
 
 ---
 

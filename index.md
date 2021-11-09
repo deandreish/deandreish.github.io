@@ -2,14 +2,15 @@
 
 ---
 
-### Category Name 1 
+### My Adventure Game, Dream Plauges!
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dream Plauges](/sample_page)
+![Dream Plauges1](https://user-images.githubusercontent.com/93952296/140838667-139bd5ed-efed-4a3f-ac2e-23fd781de9d9.JPG)
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[TipCalculator](/pdf/sample_presentation.pdf)
+![Capture](https://user-images.githubusercontent.com/93952296/140839071-b7a1251a-1bf8-4546-b756-d9e3ae46bfe8.JPG)
 
 ---
 [Project 3 Title](http://example.com/)
